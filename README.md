@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal Shukla</h1>
 
-🌱 I’m currently learning: React Native, JavaScript<br>📫 How to reach me pranjal779@gmail.com<br>
+🌱 I’m currently learning: React Native, JavaScript<br>📫 [![Gmail](https://img.shields.io/badge/Gmail-d14836.svg?logo=gmail&logoColor=white)](mailto:pranjal779@gmail.com)
+<br>
 
 
 ## 🌐 Socials:
