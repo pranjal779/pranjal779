@@ -19,7 +19,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pranjal779&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
+<!-- ## 🐦 Latest Tweet -->
 
 
 ### ✍️ Random Dev Quote
