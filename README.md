@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranjal Shukla</h1>
 
-🪴 I'm a Devops Engineer and Coder.
+🪴 I'm a Devops Engineer and Coder.  
 🌱 I’m currently learning: React Native, JavaScript, FReMP Stack<br>📫 [![Gmail](https://img.shields.io/badge/Gmail-d14836.svg?logo=gmail&logoColor=white)](mailto:pranjalpydev@gmail.com.com)
 <br>
 
