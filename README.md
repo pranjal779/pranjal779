@@ -11,8 +11,8 @@
 
 # Certifications
 
-- ☁️ AWS Certified Cloud Practitioner (Earned 2024)
-- 🛠️ HashiCorp Certified: Terraform Associate (Earned 2024)
+- ☁️ [AWS Certified Cloud Practitioner (Earned 2024)](https://www.credly.com/badges/1c67ff60-b4ec-46f2-addd-3df1df5c479a/public_url)
+- 🛠️ [HashiCorp Certified: Terraform Associate (Earned 2024)](https://www.credly.com/badges/fd19cfe1-50c4-45d0-9d06-372fe5336337/public_url)
 <img width="180" height="180" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/b9072373-9c41-46ba-ab43-b38c66cd9afe" />
 <img width="199" height="199" alt="hashicorp-certified-terraform-associate-003 (1)" src="https://github.com/user-attachments/assets/5cbe1086-6813-44e6-9c7b-6a05b887cda9" />
 
